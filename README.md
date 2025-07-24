@@ -6,8 +6,8 @@ Welcome to **Nexa Studio**, a modern and visually engaging UI/UX Design Showcase
 
 ## 🚀 Live Preview
 
-👉 [Click here to view the website](https://your-live-link.com)  
-*(Replace with your GitHub Pages/Netlify/Vercel link)*
+👉 [Click here to view the website] (https://sakshi-2508.github.io/Client_NX/)  
+
 
 ---
 
@@ -43,16 +43,15 @@ It demonstrates a clean layout, animation, and responsiveness — giving clients
 
 | Home Page | Our Designs | Process |
 |-----------|-------------|---------|
-| ![Home](screenshots/home.png) | ![Designs](screenshots/designs.png) | ![Process](screenshots/process.png) |
+| ![Home](images/home.png) | ![Portfolio](images/portfolio.png) | ![About](images/about.png) |
 
-*(Place your own screenshots inside a `/screenshots` folder)*
 
 ---
 
 ## 🤝 Let's Collaborate
 
 Need a custom portfolio, website UI, or mobile app design?  
-📩 Reach out: **[your-email@example.com](mailto:your-email@example.com)**
+📩 Reach out: ** [sakshi.angre1999@gmail.com] **
 
 ---
 
@@ -77,4 +76,5 @@ This project is open-source and available under the **MIT License**.
 
 ⭐️ **Thank you for visiting Nexa Studio!**  
 If you like the project, consider giving it a ⭐️ on GitHub!
+
 
