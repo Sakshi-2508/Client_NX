@@ -40,11 +40,9 @@ It demonstrates a clean layout, animation, and responsiveness — giving clients
 ---
 
 ## 📸 Screenshots
-
 | Home Page | Our Designs | Process |
 |-----------|-------------|---------|
-| ![Home](images/home.png) | ![Portfolio](images/portfolio.png) | ![About](images/about.png) |
-
+| <img src="images/home.png" width="200"/> | <img src="images/portfolio.png" width="200"/> | <img src="images/about.png" width="200"/> |
 
 ---
 
